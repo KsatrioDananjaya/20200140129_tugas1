@@ -18,7 +18,7 @@ string status2 (double r, double n){
 }
 int main(){
     double nilM, nilB;
-
+    
     cout << "Masukkan Nilai Matematika = ";
     cin >> nilM;
     cout << "Masukkan Nilai Bahasa Inggris = ";
